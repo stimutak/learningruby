@@ -1,0 +1,2 @@
+# p013strcmp.rb
+
