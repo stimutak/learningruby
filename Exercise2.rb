@@ -37,7 +37,7 @@ convert 100
 # Exercise2.Redux
 #----------------------------------
 
-def convert2 (temp_f = 0)
+def convert2 ( temp_f )
   (5.0 / 9) * (temp_f - 32.0) #if temp_f =~ /-?\d*\.?\d*/
 end
 
